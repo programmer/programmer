@@ -2,9 +2,9 @@
 <h3 align="center">Enthusiastic *programmer* <3  </h3>
   
   ### 📫 You can contact me at
-    `Discord: Kicks#0092`
-    `@cultofintellect.com`
-    `https://discord.gg/eJqErcp`
+  - `Discord`: Kicks#0092 or https://discord.gg/eJqErcp
+  -  `@`cultofintellect.com
+  
   ### ⚡ Working on some stuff
 <!--
 **programmer/programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
