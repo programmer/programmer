@@ -1,5 +1,5 @@
 <h1 align="center">Programmer; K.H</h1>
-<h3 align="center">Enthusiastic *programmer* <3 uwu</h3>
+<h3 align="center">Enthusiastic *programmer* <3</h3>
   
   ### 📫 You can contact me at
   - `Discord`: Kassi#0092 or https://discord.gg/eJqErcp
