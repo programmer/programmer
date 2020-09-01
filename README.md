@@ -1,8 +1,8 @@
 <h1 align="center">Programmer; K.H</h1>
-<h3 align="center">Enthusiastic *programmer* <3  </h3>
+<h3 align="center">Enthusiastic *programmer* <3 uwu</h3>
   
   ### 📫 You can contact me at
-  - `Discord`: Kicks#0092 or https://discord.gg/eJqErcp
+  - `Discord`: Kassi#0092 or https://discord.gg/eJqErcp
   -  `@`cultofintellect.com
   
   ### ⚡ Working on some stuff
