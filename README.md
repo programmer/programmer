@@ -2,7 +2,7 @@
 <h3 align="center">Enthusiastic *programmer* <3</h3>
   
   ### 📫 You can contact me at
-  - `Discord`: Kassi#0092 or https://discord.gg/eJqErcp
+  - `Discord`: Kicks#9855 or https://discord.gg/eJqErcp
   -  `@`cultofintellect.com
   
   ### ⚡ Working on some stuff
